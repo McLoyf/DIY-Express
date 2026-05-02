@@ -1,6 +1,5 @@
-<title>Task Management API</title>
 <body>
-    <h1>Task Management API</h1>
+    <h1>DIY Express Server</h1>
 
 A simple Express.js API for managing tasks and categories.
 This project uses in-memory storage, so data resets when the server restarts.
